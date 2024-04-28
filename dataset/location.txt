@@ -1,0 +1,533 @@
+Nueva York
+París
+Londres
+Tokio
+Roma
+Sídney
+Madrid
+Berlín
+Pekín
+Moscú
+San Francisco
+Los Ángeles
+Chicago
+Toronto
+Dubái
+Ámsterdam
+Barcelona
+Atenas
+Estambul
+Singapur
+Bangkok
+Seúl
+Viena
+Praga
+Budapest
+Dublín
+México
+Santiago
+Buenos Aires
+Lima
+Brasilia
+Cairo
+Nairobi
+Johannesburgo
+Mumbai
+Delhi
+Bangalore
+Dubai
+Abu Dhabi
+Doha
+Riad
+Bagdad
+Teherán
+Ankara
+Jerusalén
+Tel Aviv
+El Cairo
+Alejandría
+Casablanca
+Argel
+Túnez
+Rabat
+Dakar
+Lagos
+Accra
+Nairobi
+Dar es Salaam
+Luanda
+Kinshasa
+Bengasi
+Trípoli
+Beirut
+Kuwait
+Manama
+Muscat
+Islamabad
+Karachi
+Lahore
+Islamabad
+Daca
+Katmandú
+Colombo
+Kuala Lumpur
+Yakarta
+Manila
+Hanoi
+Phnom Penh
+Yangon
+Kabul
+Kandahar
+Bagdad
+Basora
+Kirkuk
+Mosul
+Erbil
+Almaty
+Astana
+Tashkent
+Biskek
+Dushanbe
+Ashgabat
+Ulan Bator
+Seúl
+Busan
+Daegu
+Incheon
+Gwangju
+Suwon
+Daejeon
+Jeju
+Nueva Delhi
+Bombay
+Calcuta
+Bangalore
+Chennai
+Hyderabad
+Ahmedabad
+Pune
+Surat
+Jaipur
+Kanpur
+Lucknow
+Nagpur
+Patna
+Indore
+Thane
+Bhopal
+Ludhiana
+Agra
+Vadodara
+Nashik
+Faridabad
+Meerut
+Rajkot
+Kalyan
+Vasai
+Varsovia
+Cracovia
+Łódź
+Wrocław
+Poznań
+Gdansk
+Szczecin
+Bydgoszcz
+Lublin
+Katowice
+Białystok
+Gdynia
+Częstochowa
+Radom
+Sosnowiec
+Toruń
+Kielce
+Gliwice
+Zabrze
+Olsztyn
+Bielsko-Biała
+Bytom
+Rzeszów
+Rostock
+Dresde
+Leipzig
+Hamburgo
+Stuttgart
+Colonia
+Núremberg
+Bremen
+Hannover
+Düsseldorf
+Bonn
+Dortmund
+Essen
+Duisburg
+Bochum
+Wuppertal
+Bielefeld
+Münster
+Karlsruhe
+Mannheim
+Aquisgrán
+Wiesbaden
+Münich
+Braunschweig
+Kassel
+Halle
+Magdeburgo
+Kiel
+Saarbrücken
+Chemnitz
+Augsburgo
+Potsdam
+Jena
+Erfurt
+Freiburg
+Cottbus
+Brandeburgo
+Fürth
+Würzburg
+Hanau
+Trier
+Koblenz
+Erlangen
+Mainz
+Gotinga
+Oldemburgo
+Heidelberg
+Regensburg
+Ulm
+Ingolstadt
+Lübeck
+Bremerhaven
+Plauen
+Neumünster
+Bergisch Gladbach
+Norderstedt
+Gütersloh
+Rostock
+Schwerin
+Hildesheim
+Salzburgo
+Innsbruck
+Linz
+Graz
+Klagenfurt
+Villach
+Wels
+Steyr
+Dornbirn
+Wiener Neustadt
+Bregenz
+Eisenstadt
+Feldkirch
+León
+Guadalajara
+Tijuana
+Puebla
+Mexicali
+Acapulco
+Monterrey
+Mérida
+Cancún
+Veracruz
+Toluca
+Oaxaca
+Cuernavaca
+Tuxtla Gutiérrez
+Tampico
+Saltillo
+Durango
+Querétaro
+Torreón
+Morelia
+Tepic
+Chihuahua
+Hermosillo
+Mazatlán
+La Paz
+Ciudad Juárez
+Culiacán
+Nuevo Laredo
+Aguascalientes
+San Luis Potosí
+Victoria
+Colima
+Tlaxcala
+Zacatecas
+Campeche
+Ciudad del Carmen
+Xalapa
+Chetumal
+Tlaxcala
+Pachuca
+Oaxaca
+Nogales
+Tijuana
+Matamoros
+Nuevo Laredo
+Piedras Negras
+Reynosa
+Brownsville
+Laredo
+McAllen
+Del Río
+Eagle Pass
+Yuma
+San Diego
+Tucson
+El Paso
+Las Cruces
+Albuquerque
+Roswell
+Midland
+Odessa
+Abilene
+San Angelo
+Wichita Falls
+Lawton
+Amarillo
+Lubbock
+Pueblo
+Colorado Springs
+Boulder
+Fort Collins
+Grand Junction
+Casper
+Cheyenne
+Rapid City
+Sioux Falls
+Fargo
+Bismarck
+Minot
+Great Falls
+Bozeman
+Missoula
+Helena
+Billings
+Coeur d'Alene
+Boise
+Pocatello
+Idaho Falls
+Twin Falls
+Lewiston
+Spokane
+Tacoma
+Everett
+Bellingham
+Yakima
+Richland
+Kennewick
+Pasco
+Vancouver
+Victoria
+Nanaimo
+Kelowna
+Kamloops
+Prince George
+Medicine Hat
+Red Deer
+Lethbridge
+Grande Prairie
+Fort McMurray
+Yellowknife
+Whitehorse
+Iqaluit
+Charlottetown
+Summerside
+Saint John
+Fredericton
+Moncton
+Halifax
+Dartmouth
+Sydney
+St. John's
+Corner Brook
+Gander
+Truro
+New Glasgow
+Kentville
+Windsor
+London
+Kitchener
+Hamilton
+Burlington
+Oakville
+Mississauga
+Brampton
+Vaughan
+Markham
+Richmond Hill
+Toronto
+Oshawa
+Ajax
+Pickering
+Whitby
+Peterborough
+Barrie
+Sudbury
+North Bay
+Thunder Bay
+Sault Ste. Marie
+Winnipeg
+Brandon
+Regina
+Saskatoon
+Moose Jaw
+Prince Albert
+Swift Current
+Estevan
+Yorkton
+North Battleford
+Lloydminster
+Thompson
+Dauphin
+The Pas
+Flin Flon
+Melville
+Weyburn
+Humboldt
+Martensville
+Warman
+Langley
+Abbotsford
+Chilliwack
+Nueva York
+Londres
+París
+Tokio
+Roma
+Sídney
+Pekín
+Los Ángeles
+Moscú
+Madrid
+Berlín
+Toronto
+Hong Kong
+Chicago
+Ámsterdam
+Estambul
+Seúl
+Bangkok
+Dubái
+Singapur
+Shanghái
+Mumbai
+Río de Janeiro
+Buenos Aires
+México D.F.
+Cairo
+Johannesburgo
+Nairobi
+Riad
+Abu Dhabi
+Vancouver
+Munich
+Viena
+Atenas
+Copenhague
+Estocolmo
+Oslo
+Dublín
+Budapest
+Varsovia
+Praga
+Bruselas
+Helsinki
+Lisboa
+Zurich
+Bratislava
+Luxemburgo
+Montreal
+Sidney
+Kioto
+Osaka
+Sevilla
+Barcelona
+Valencia
+Milán
+Nápoles
+Florencia
+Venecia
+Santiago de Chile
+Bogotá
+Lima
+Quito
+La Paz
+Asunción
+Montevideo
+Caracas
+San José
+San Salvador
+Ciudad de Guatemala
+Tegucigalpa
+Ciudad de Panamá
+Guayaquil
+Cochabamba
+Cusco
+San Francisco
+Houston
+Dallas
+Miami
+Seattle
+Boston
+Phoenix
+Las Vegas
+Denver
+Filadelfia
+Atlanta
+Orlando
+Nueva Orleans
+San Diego
+Honolulu
+Anchorage
+Portland
+Washington D.C.
+San Petersburgo
+Kiev
+Bucarest
+Sofía
+Belgrado
+Zagreb
+Bratislava
+Tallin
+Riga
+Vilna
+Kuala Lumpur
+Bangalore
+Chennai
+Kolkata
+Hyderabad
+Ciudad del Cabo
+Durban
+Pretoria
+Manila
+Auckland
+Wellington
+Hobart
+Adelaida
+Perth
+Brisbane
+Canberra
+Darwin
+Ottawa
+Calgary
+Edmonton
+Halifax
+Winnipeg
+Saskatoon
+Victoria
+Quebec City
+Santo Domingo
+Puerto Príncipe
+Kingston
+San Juan
+Georgetown
+Paramaribo
+Montevideo
+La Habana
+Nassau
+Kingston
+Puerto de España
+Castries
+Ciudad del Vaticano
