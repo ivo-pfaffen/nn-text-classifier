@@ -1,10 +1,9 @@
 # Clasificación de entidades nombradas con una RNN 🧠
-Entrenamos una RNN para clasificar entidades nombradas (texto) en categorías (**PERSON**, **LOCATION**, **ORGANIZATION**, **OTHER**).
+Entrenamos una RNN para clasificar entidades nombradas (texto).
 
-
-> - "Lionel Messi" -> **PERSON**
-> - "Argentina" -> **LOCATION**
-> - "Comisión Nacional de Actividades Espaciales" -> **ORGANIZATION**
+> - "Lionel Messi" -> **entity**
+> - "Argentina" -> **entity**
+> - "casa" -> **none**
 
 El objetivo fue entrenar el modelo desde cero curando un dataset propio y aprendiendo PyTorch en el medio. No me permití usar `torch.nn.RNN` para realmente entender el funcionamiento interno de una RNN. 
 
@@ -26,7 +25,7 @@ Para armar el dataset, escribimos ejemplos de cada categoría y generamos el res
 - `/images`: imágenes ilustrativas
 
 ## Proceso 
-- Armar dataset de categorías **PERSON**, **LOCATION**, **ORGANIZATION** usando ChatGPT
+- Armar dataset de categorías **entity**, **none** usando ChatGPT
 - Normalizar dataset
 - Definir el encoding del input (en este caso, usamos _one-hot_)
 - Definir la clase RNN con su _forward pass_ en base a la imagen (1)
@@ -39,11 +38,4 @@ Para armar el dataset, escribimos ejemplos de cada categoría y generamos el res
 El dataset fue generado "a mano" con la ayuda de ChatGPT. Los archivos base están en el directorio `./dataset`. Cada archivo de texto tiene el nombre de una categoría y contiene ejemplos no procesados (y con entries repetidas).
 
 ## Hyperparameters
-El modelo se entrenó en `n_iters = 50000`,  `learning_rate = 0.001`, `n_hidden = 128`.
-
-## Importante ❗
-Este cuaderno sólo fue testeado en Google Colab. 
-
-El código se conecta a Google Drive y busca la carpeta `My Drive/nn-category-classification/training-data`, donde debe haber un archivo para cada categoría (person, location, organization) conteniendo los datos de entrenamiento. 
-
-Pueden obtener usar los mismos datos que yo, copiá [esta carpeta](https://drive.google.com/drive/folders/1N4FA62g0iQAnIEg0I84xHip02sX10lGx?usp=sharing) a tu carpeta prinicipal (My Drive) de Google Drive. 
+El modelo se entrenó en `n_iters = 57500`,  `learning_rate = 0.0008`, `n_hidden = 64`.

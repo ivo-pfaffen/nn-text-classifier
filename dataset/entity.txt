@@ -1,0 +1,2479 @@
+Nueva York
+París
+Londres
+Tokio
+Roma
+Sídney
+Madrid
+Berlín
+Pekín
+Moscú
+San Francisco
+Los Ángeles
+Chicago
+Toronto
+Dubái
+Ámsterdam
+Barcelona
+Atenas
+Estambul
+Singapur
+Bangkok
+Seúl
+Viena
+Praga
+Budapest
+Dublín
+México
+Santiago
+Buenos Aires
+Lima
+Brasilia
+Cairo
+Nairobi
+Johannesburgo
+Mumbai
+Delhi
+Bangalore
+Dubai
+Abu Dhabi
+Doha
+Riad
+Bagdad
+Teherán
+Ankara
+Jerusalén
+Tel Aviv
+El Cairo
+Alejandría
+Casablanca
+Argel
+Túnez
+Rabat
+Dakar
+Lagos
+Accra
+Nairobi
+Dar es Salaam
+Luanda
+Kinshasa
+Bengasi
+Trípoli
+Beirut
+Kuwait
+Manama
+Muscat
+Islamabad
+Karachi
+Lahore
+Islamabad
+Daca
+Katmandú
+Colombo
+Kuala Lumpur
+Yakarta
+Manila
+Hanoi
+Phnom Penh
+Yangon
+Kabul
+Kandahar
+Bagdad
+Basora
+Kirkuk
+Mosul
+Erbil
+Almaty
+Astana
+Tashkent
+Biskek
+Dushanbe
+Ashgabat
+Ulan Bator
+Seúl
+Busan
+Daegu
+Incheon
+Gwangju
+Suwon
+Daejeon
+Jeju
+Nueva Delhi
+Bombay
+Calcuta
+Bangalore
+Chennai
+Hyderabad
+Ahmedabad
+Pune
+Surat
+Jaipur
+Kanpur
+Lucknow
+Nagpur
+Patna
+Indore
+Thane
+Bhopal
+Ludhiana
+Agra
+Vadodara
+Nashik
+Faridabad
+Meerut
+Rajkot
+Kalyan
+Vasai
+Varsovia
+Cracovia
+Łódź
+Wrocław
+Poznań
+Gdansk
+Szczecin
+Bydgoszcz
+Lublin
+Katowice
+Białystok
+Gdynia
+Częstochowa
+Radom
+Sosnowiec
+Toruń
+Kielce
+Gliwice
+Zabrze
+Olsztyn
+Bielsko-Biała
+Bytom
+Rzeszów
+Rostock
+Dresde
+Leipzig
+Hamburgo
+Stuttgart
+Colonia
+Núremberg
+Bremen
+Hannover
+Düsseldorf
+Bonn
+Dortmund
+Essen
+Duisburg
+Bochum
+Wuppertal
+Bielefeld
+Münster
+Karlsruhe
+Mannheim
+Aquisgrán
+Wiesbaden
+Münich
+Braunschweig
+Kassel
+Halle
+Magdeburgo
+Kiel
+Saarbrücken
+Chemnitz
+Augsburgo
+Potsdam
+Jena
+Erfurt
+Freiburg
+Cottbus
+Brandeburgo
+Fürth
+Würzburg
+Hanau
+Trier
+Koblenz
+Erlangen
+Mainz
+Gotinga
+Oldemburgo
+Heidelberg
+Regensburg
+Ulm
+Ingolstadt
+Lübeck
+Bremerhaven
+Plauen
+Neumünster
+Bergisch Gladbach
+Norderstedt
+Gütersloh
+Rostock
+Schwerin
+Hildesheim
+Salzburgo
+Innsbruck
+Linz
+Graz
+Klagenfurt
+Villach
+Wels
+Steyr
+Dornbirn
+Wiener Neustadt
+Bregenz
+Eisenstadt
+Feldkirch
+León
+Guadalajara
+Tijuana
+Puebla
+Mexicali
+Acapulco
+Monterrey
+Mérida
+Cancún
+Veracruz
+Toluca
+Oaxaca
+Cuernavaca
+Tuxtla Gutiérrez
+Tampico
+Saltillo
+Durango
+Querétaro
+Torreón
+Morelia
+Tepic
+Chihuahua
+Hermosillo
+Mazatlán
+La Paz
+Ciudad Juárez
+Culiacán
+Nuevo Laredo
+Aguascalientes
+San Luis Potosí
+Victoria
+Colima
+Tlaxcala
+Zacatecas
+Campeche
+Ciudad del Carmen
+Xalapa
+Chetumal
+Tlaxcala
+Pachuca
+Oaxaca
+Nogales
+Tijuana
+Matamoros
+Nuevo Laredo
+Piedras Negras
+Reynosa
+Brownsville
+Laredo
+McAllen
+Del Río
+Eagle Pass
+Yuma
+San Diego
+Tucson
+El Paso
+Las Cruces
+Albuquerque
+Roswell
+Midland
+Odessa
+Abilene
+San Angelo
+Wichita Falls
+Lawton
+Amarillo
+Lubbock
+Pueblo
+Colorado Springs
+Boulder
+Fort Collins
+Grand Junction
+Casper
+Cheyenne
+Rapid City
+Sioux Falls
+Fargo
+Bismarck
+Minot
+Great Falls
+Bozeman
+Missoula
+Helena
+Billings
+Coeur d'Alene
+Boise
+Pocatello
+Idaho Falls
+Twin Falls
+Lewiston
+Spokane
+Tacoma
+Everett
+Bellingham
+Yakima
+Richland
+Kennewick
+Pasco
+Vancouver
+Victoria
+Nanaimo
+Kelowna
+Kamloops
+Prince George
+Medicine Hat
+Red Deer
+Lethbridge
+Grande Prairie
+Fort McMurray
+Yellowknife
+Whitehorse
+Iqaluit
+Charlottetown
+Summerside
+Saint John
+Fredericton
+Moncton
+Halifax
+Dartmouth
+Sydney
+St. John's
+Corner Brook
+Gander
+Truro
+New Glasgow
+Kentville
+Windsor
+London
+Kitchener
+Hamilton
+Burlington
+Oakville
+Mississauga
+Brampton
+Vaughan
+Markham
+Richmond Hill
+Toronto
+Oshawa
+Ajax
+Pickering
+Whitby
+Peterborough
+Barrie
+Sudbury
+North Bay
+Thunder Bay
+Sault Ste. Marie
+Winnipeg
+Brandon
+Regina
+Saskatoon
+Moose Jaw
+Prince Albert
+Swift Current
+Estevan
+Yorkton
+North Battleford
+Lloydminster
+Thompson
+Dauphin
+The Pas
+Flin Flon
+Melville
+Weyburn
+Humboldt
+Martensville
+Warman
+Langley
+Abbotsford
+Chilliwack
+Nueva York
+Londres
+París
+Tokio
+Roma
+Sídney
+Pekín
+Los Ángeles
+Moscú
+Madrid
+Berlín
+Toronto
+Hong Kong
+Chicago
+Ámsterdam
+Estambul
+Seúl
+Bangkok
+Dubái
+Singapur
+Shanghái
+Mumbai
+Río de Janeiro
+Buenos Aires
+México D.F.
+Cairo
+Johannesburgo
+Nairobi
+Riad
+Abu Dhabi
+Vancouver
+Munich
+Viena
+Atenas
+Copenhague
+Estocolmo
+Oslo
+Dublín
+Budapest
+Varsovia
+Praga
+Bruselas
+Helsinki
+Lisboa
+Zurich
+Bratislava
+Luxemburgo
+Montreal
+Sidney
+Kioto
+Osaka
+Sevilla
+Barcelona
+Valencia
+Milán
+Nápoles
+Florencia
+Venecia
+Santiago de Chile
+Bogotá
+Lima
+Quito
+La Paz
+Asunción
+Montevideo
+Caracas
+San José
+San Salvador
+Ciudad de Guatemala
+Tegucigalpa
+Ciudad de Panamá
+Guayaquil
+Cochabamba
+Cusco
+San Francisco
+Houston
+Dallas
+Miami
+Seattle
+Boston
+Phoenix
+Las Vegas
+Denver
+Filadelfia
+Atlanta
+Orlando
+Nueva Orleans
+San Diego
+Honolulu
+Anchorage
+Portland
+Washington D.C.
+San Petersburgo
+Kiev
+Bucarest
+Sofía
+Belgrado
+Zagreb
+Bratislava
+Tallin
+Riga
+Vilna
+Kuala Lumpur
+Bangalore
+Chennai
+Kolkata
+Hyderabad
+Ciudad del Cabo
+Durban
+Pretoria
+Manila
+Auckland
+Wellington
+Hobart
+Adelaida
+Perth
+Brisbane
+Canberra
+Darwin
+Ottawa
+Calgary
+Edmonton
+Halifax
+Winnipeg
+Saskatoon
+Victoria
+Quebec City
+Santo Domingo
+Puerto Príncipe
+Kingston
+San Juan
+Georgetown
+Paramaribo
+Montevideo
+La Habana
+Nassau
+Kingston
+Puerto de España
+Castries
+Ciudad del Vaticano
+Argentina
+Brasil
+Chile
+España
+México
+Perú
+Venezuela
+Colombia
+Bolivia
+Ecuador
+Paraguay
+Uruguay
+Guatemala
+Cuba
+República Dominicana
+Puerto Rico
+Honduras
+El Salvador
+Nicaragua
+Costa Rica
+Panamá
+La Habana
+Santiago de Chile
+Ciudad de México
+Lima
+Bogotá
+Caracas
+Madrid
+Barcelona
+Sevilla
+Valencia
+Zaragoza
+Bilbao
+Murcia
+Málaga
+Oviedo
+Gijón
+Vigo
+Alicante
+Granada
+Córdoba
+Salamanca
+Pamplona
+Santander
+Almería
+Huelva
+Lugo
+Cádiz
+Marbella
+Toledo
+Segovia
+Tarragona
+León
+Burgos
+Albacete
+Getafe
+San Sebastián
+Las Palmas de Gran Canaria
+Santa Cruz de Tenerife
+La Coruña
+Valladolid
+Tenerife
+Ibiza
+Mallorca
+Menorca
+Fuerteventura
+Lanzarote
+El Hierro
+La Gomera
+La Palma
+Ceuta
+Melilla
+Andorra la Vella
+Machu Picchu
+Cuzco
+Arequipa
+Trujillo
+Iquitos
+Puno
+Tacna
+Puerto Maldonado
+Moquegua
+Tarapoto
+Nazca
+Chiclayo
+Piura
+Tumbes
+Cajamarca
+Ayacucho
+Huancayo
+Huaraz
+Chimbote
+Pucallpa
+Huánuco
+Juliaca
+Cerro de Pasco
+Abancay
+Puerto Cabello
+Maracaibo
+Mérida, Venezuela
+San Cristóbal
+Barquisimeto
+Ciudad Bolívar
+Cumaná
+Coro
+Puerto La Cruz
+Maturín
+Valera
+Barinas
+Acarigua
+Guanare
+Calabozo
+San Fernando de Apure
+El Tigre
+Anaco
+Los Teques
+San Juan de los Morros
+La Guaira
+Carúpano
+Trujillo, Venezuela
+Porlamar
+La Asunción
+Juan Griego
+Pampatar
+San Pedro de Macorís
+Santiago de los Caballeros
+La Romana
+Punta Cana
+Puerto Plata
+Santo Domingo
+Samana
+Azua
+Barahona
+Bonao
+Cotuí
+Dajabón
+Higüey
+Jimaní
+La Vega
+Mao
+Monte Cristi
+Monte Plata
+Pedernales
+Peravia
+San Cristóbal
+San José de Ocoa
+San Juan
+Sánchez Ramírez
+Santiago Rodríguez
+Valverde
+Villa Altagracia
+Neiba
+Bani
+San Francisco de Macorís
+Santa Bárbara de Samaná
+Cabo Rojo
+Ponce
+Mayagüez
+Caguas
+Bayamón
+Arecibo
+Fajardo
+Humacao
+Guayama
+Rio Piedras
+Carolina
+Trujillo Alto
+Dorado
+Manatí
+Aguadilla
+Hormigueros
+Camuy
+Hatillo
+Isabela
+Lares
+Rincón
+Sabana Grande
+San Germán
+San Sebastián
+Yauco
+Adjuntas
+Ciales
+Florida
+Guayanilla
+CABA
+Villa Allende
+Glaciar Perito Moreno
+Bariloche
+Purmamarca
+Parque Nacional Los Alerces
+Mar del Plata
+Ushuaia
+La Plata
+Córdoba
+Rosario
+Mendoza
+Salta
+Santa Fe
+San Juan
+Neuquén
+Tandil
+Pinamar
+Villa Gesell
+El Calafate
+San Martín de los Andes
+El Chaltén
+Villa La Angostura
+Puerto Madryn
+Río Gallegos
+Comodoro Rivadavia
+Bahía Blanca
+Viedma
+Rawson
+Trelew
+Posadas
+Corrientes
+Formosa
+Resistencia
+Paraná
+Santa Rosa
+La Rioja
+San Fernando del Valle de Catamarca
+Santiago del Estero
+San Salvador de Jujuy
+San Luis
+Santa Cruz
+Tierra del Fuego
+Zapala
+Choele Choel
+Villa María
+Río Cuarto
+Concordia
+San Rafael
+Merlo
+Junín
+Pergamino
+Olavarría
+San Nicolás de los Arroyos
+Venado Tuerto
+Rafaela
+El Bolsón
+Tres Arroyos
+San Ramón de la Nueva Orán
+San Antonio Oeste
+Esquel
+Chivilcoy
+Reconquista
+Goya
+La Paz
+Monte Hermoso
+Federación
+Villa Carlos Paz
+Capilla del Monte
+Alta Gracia
+Jesús María
+La Falda
+Cafayate
+Humahuaca
+Tilcara
+Uspallata
+Malargüe
+San Pedro
+Lobos
+Azul
+Necochea
+Gualeguaychú
+Villaguay
+Chacabuco
+Trenque Lauquen
+Pehuajó
+Balcarce
+San Justo
+Vera
+Paso de los Libres
+San Carlos de Bariloche
+Puerto Iguazú
+Parque Nacional Nahuel Huapi
+Lago Puelo
+Cerro Catedral
+Aconcagua
+Quebrada de Humahuaca
+Valle de la Luna
+Lago Argentino
+Península Valdés
+Monte Fitz Roy
+Lago Nahuel Huapi
+Cerro Torre
+Cerro Fitz Roy
+Laguna del Diamante
+Parque Nacional Tierra del Fuego
+Cueva de las Manos
+Lago Fagnano
+Bosques Petrificados
+Parque Nacional Talampaya
+Parque Nacional Iguazú
+Esteros del Iberá
+Sierra de la Ventana
+Parque Provincial Aconcagua
+Quebrada del Condorito
+Parque Nacional Quebrada del Condorito
+Parque Nacional Calilegua
+Parque Nacional Los Glaciares
+Valle Fértil
+Maipú
+Godoy Cruz
+Luján de Cuyo
+San Carlos
+Tupungato
+Villa Pehuenia
+Caviahue
+Copahue
+Chascomús
+Mercedes
+San Antonio de Areco
+Villa General Belgrano
+La Cumbrecita
+Yerba Buena
+Tafí del Valle
+Boca Juniors
+Ministerio de Trabajo
+CGT
+Instituto Nacional de Tecnología Industrial
+Amnistía Internacional
+Asociación Civil Centro de Estudios en Nuevas Economías
+Academia Nacional de Ciencias Morales y Políticas
+Greenpeace Argentina
+Partido Justicialista
+Universidad de Buenos Aires
+Conicet
+Cruz Roja Argentina
+Fuerza Aérea Argentina
+Movimiento Evita
+Poder Judicial
+UNICEF Argentina
+Partido de los Trabajadores
+Acción por la República
+Asociación de Trabajadores del Estado
+Cámara Argentina de Comercio y Servicios
+Cámara de Diputados
+Cámara de Senadores
+Centro de Estudiantes
+Centro de Implementación de Políticas Públicas para la Equidad y el Crecimiento
+Comisión Nacional de Energía Atómica
+Confederación General del Trabajo
+Defensoría del Pueblo
+Embajada de Argentina
+Federación Agraria Argentina
+Fuerza Armada Nacional Bolivariana
+Gobierno de la Ciudad de Buenos Aires
+Gobierno de la Provincia de Buenos Aires
+Gobierno de la República de Chile
+Gobierno de la República de Colombia
+Gobierno de la República del Ecuador
+Gobierno de la República de Paraguay
+Gobierno de la República Oriental del Uruguay
+Gobierno de la República Bolivariana de Venezuela
+Instituto Nacional de Estadística y Censos
+Ministerio de Agricultura, Ganadería y Pesca
+Ministerio de Ciencia, Tecnología e Innovación
+Ministerio de Cultura
+Ministerio de Defensa
+Ministerio de Desarrollo Productivo
+Ministerio de Desarrollo Social
+Ministerio de Economía
+Ministerio de Educación
+Ministerio de Justicia y Derechos Humanos
+Ministerio de Medio Ambiente y Desarrollo Sostenible
+Ministerio de Obras Públicas
+Ministerio de Relaciones Exteriores y Culto
+Ministerio de Salud
+Ministerio de Seguridad
+Ministerio de Transporte
+Organización de las Naciones Unidas
+Partido Comunista de Argentina
+Partido Demócrata Cristiano
+Partido Obrero
+Partido Socialista
+Procuraduría General de la Nación
+Secretaría de Derechos Humanos
+Secretaría de Energía
+Secretaría de Medios y Comunicación Pública
+Servicio Nacional de Sanidad y Calidad Agroalimentaria
+Sindicato de Trabajadores de la Industria de la Alimentación
+Sindicato de Trabajadores de la Educación
+Sindicato Único de Trabajadores del Espectáculo Público y Afines
+Sistema Nacional de Medios Públicos
+Tribunal Supremo de Justicia
+Universidad Nacional de Córdoba
+Universidad Nacional de La Plata
+Universidad Nacional de Rosario
+Universidad Nacional del Litoral
+Universidad Nacional del Sur
+Cruz Roja
+Greenpeace
+Amnistía Internacional
+Unicef
+Save the Children
+Human Rights Watch
+World Wildlife Fund
+Médicos Sin Fronteras
+Oxfam
+Federación Internacional de Derechos Humanos
+Transparency International
+ACLU
+Médicos del Mundo
+Reporteros Sin Fronteras
+Mercy Corps
+World Vision
+Habitat for Humanity
+International Red Cross
+International Rescue Committee
+Doctors Without Borders
+International Labor Organization
+The Nature Conservancy
+Partners In Health
+CARE
+Action Against Hunger
+International Federation of Red Cross and Red Crescent Societies
+Interpeace
+International Federation of Human Rights
+Catholic Relief Services
+WaterAid
+Inter-American Development Bank
+Asia Foundation
+United Nations Development Programme
+International Monetary Fund
+World Bank
+World Trade Organization
+Organization of American States
+European Union
+African Union
+Caribbean Community
+Commonwealth of Nations
+Organization of Islamic Cooperation
+North Atlantic Treaty Organization
+International Criminal Court
+International Court of Justice
+Inter-American Court of Human Rights
+World Health Organization
+World Food Programme
+Food and Agriculture Organization
+International Atomic Energy Agency
+United Nations Educational, Scientific and Cultural Organization
+United Nations High Commissioner for Refugees
+United Nations Children's Fund
+International Maritime Organization
+International Civil Aviation Organization
+Universal Postal Union
+International Telecommunication Union
+World Meteorological Organization
+World Intellectual Property Organization
+Cruz Roja
+Greenpeace
+Amnistía Internacional
+Unicef
+Save the Children
+Human Rights Watch
+World Wildlife Fund
+Médicos Sin Fronteras
+Oxfam
+Federación Internacional de Derechos Humanos
+Transparency International
+ACLU
+Médicos del Mundo
+Reporteros Sin Fronteras
+Mercy Corps
+World Vision
+Habitat for Humanity
+CARE
+Action Against Hunger
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja
+Interpeace
+Cruz Roja Argentina
+Organización Panamericana de la Salud
+Cruz Roja Salvadoreña
+Cruz Roja Nicaragüense
+Cruz Roja Cubana
+Greenpeace España
+Amnistía Internacional España
+Unicef España
+Save the Children España
+Human Rights Watch España
+Médicos Sin Fronteras España
+Oxfam España
+Federación Internacional de Derechos Humanos España
+Transparency International España
+ACLU España
+Médicos del Mundo España
+Reporteros Sin Fronteras España
+Mercy Corps España
+World Vision España
+Habitat for Humanity España
+CARE España
+Action Against Hunger España
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja España
+Interpeace España
+Organización Panamericana de la Salud España
+Greenpeace Argentina
+Amnistía Internacional Argentina
+Unicef Argentina
+Save the Children Argentina
+Human Rights Watch Argentina
+Médicos Sin Fronteras Argentina
+Oxfam Argentina
+Federación Internacional de Derechos Humanos Argentina
+Transparency International Argentina
+ACLU Argentina
+Médicos del Mundo Argentina
+Reporteros Sin Fronteras Argentina
+Mercy Corps Argentina
+World Vision Argentina
+Habitat for Humanity Argentina
+CARE Argentina
+Action Against Hunger Argentina
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja Argentina
+Interpeace Argentina
+Organización Panamericana de la Salud Argentina
+Greenpeace Colombia
+Amnistía Internacional Colombia
+Unicef Colombia
+Save the Children Colombia
+Human Rights Watch Colombia
+Médicos Sin Fronteras Colombia
+Oxfam Colombia
+Federación Internacional de Derechos Humanos Colombia
+Transparency International Colombia
+ACLU Colombia
+Médicos del Mundo Colombia
+Reporteros Sin Fronteras Colombia
+Mercy Corps Colombia
+World Vision Colombia
+Habitat for Humanity Colombia
+CARE Colombia
+Action Against Hunger Colombia
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja Colombia
+Interpeace Colombia
+Organización Panamericana de la Salud Colombia
+Greenpeace México
+Amnistía Internacional México
+Unicef México
+Save the Children México
+Human Rights Watch México
+Médicos Sin Fronteras México
+Oxfam México
+Federación Internacional de Derechos Humanos México
+Transparency International México
+ACLU México
+Médicos del Mundo México
+Reporteros Sin Fronteras México
+Mercy Corps México
+World Vision México
+Habitat for Humanity México
+CARE México
+Action Against Hunger México
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja México
+Interpeace México
+Organización Panamericana de la Salud México
+Greenpeace Chile
+Amnistía Internacional Chile
+Unicef Chile
+Save the Children Chile
+Human Rights Watch Chile
+Médicos Sin Fronteras Chile
+Oxfam Chile
+Federación Internacional de Derechos Humanos Chile
+Transparency International Chile
+ACLU Chile
+Médicos del Mundo Chile
+Reporteros Sin Fronteras Chile
+Mercy Corps Chile
+World Vision Chile
+Habitat for Humanity Chile
+CARE Chile
+Action Against Hunger Chile
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja Chile
+Interpeace Chile
+Organización Panamericana de la Salud Chile
+Greenpeace Uruguay
+Amnistía Internacional Uruguay
+Unicef Uruguay
+Save the Children Uruguay
+Human Rights Watch Uruguay
+Médicos Sin Fronteras Uruguay
+Oxfam Uruguay
+Federación Internacional de Derechos Humanos Uruguay
+Transparency International Uruguay
+ACLU Uruguay
+Médicos del Mundo Uruguay
+Reporteros Sin Fronteras Uruguay
+Mercy Corps Uruguay
+World Vision Uruguay
+Habitat for Humanity Uruguay
+CARE Uruguay
+Action Against Hunger Uruguay
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja Uruguay
+Interpeace Uruguay
+Organización Panamericana de la Salud Uruguay
+Greenpeace Paraguay
+Amnistía Internacional Paraguay
+Unicef Paraguay
+Save the Children Paraguay
+Human Rights Watch Paraguay
+Médicos Sin Fronteras Paraguay
+Oxfam Paraguay
+Federación Internacional de Derechos Humanos Paraguay
+Transparency International Paraguay
+ACLU Paraguay
+Médicos del Mundo Paraguay
+Reporteros Sin Fronteras Paraguay
+Mercy Corps Paraguay
+World Vision Paraguay
+Habitat for Humanity Paraguay
+CARE Paraguay
+Action Against Hunger Paraguay
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja Paraguay
+Interpeace Paraguay
+Organización Panamericana de la Salud Paraguay
+Greenpeace Ecuador
+Amnistía Internacional Ecuador
+Unicef Ecuador
+Save the Children Ecuador
+Human Rights Watch Ecuador
+Médicos Sin Fronteras Ecuador
+Oxfam Ecuador
+Federación Internacional de Derechos Humanos Ecuador
+Transparency International Ecuador
+ACLU Ecuador
+Médicos del Mundo Ecuador
+Reporteros Sin Fronteras Ecuador
+Mercy Corps Ecuador
+World Vision Ecuador
+Habitat for Humanity Ecuador
+CARE Ecuador
+Action Against Hunger Ecuador
+Federación Internacional de Sociedades de la Cruz Roja y de la Media
+Asociación Argentina de Actores
+Club Atlético River Plate
+Fundación para la Conservación del Gran Chaco
+Confederación General del Trabajo
+Centro de Investigación y Promoción de los Derechos Humanos
+Greenpeace América Latina
+Comisión Nacional de Energía Atómica
+Grupo Clarín
+Banco de la Nación Argentina
+Fundación Huésped
+Instituto Nacional de Tecnología Agropecuaria
+Corporación de Fomento de la Producción
+Federación de Estudiantes Universitarios del Uruguay
+Banco de Desarrollo de América Latina
+Sociedad Rural Argentina
+Cruz Roja Argentina
+Universidad de Buenos Aires
+Federación Nacional de Cafeteros
+Grupo de Acción Financiera Internacional
+Cámara Argentina de Comercio
+Fundación Avina
+Instituto Nacional de Estadística y Censos
+Asociación Latinoamericana de Integración
+Cámara Nacional de Apelaciones en lo Civil
+Consejo Nacional de Investigaciones Científicas y Técnicas
+Fundación Teletón
+Federación Argentina de Trabajadores de Luz y Fuerza
+Fondo Monetario Internacional
+Liga Argentina por los Derechos del Hombre
+Greenpeace Brasil
+Federación Uruguaya de Magisterio
+Movimiento de Integración y Liberación Homosexual
+Asociación de Scouts del Uruguay
+Asociación Nacional de la Prensa
+Federación Argentina de Municipios
+Asociación de Bancos Públicos y Privados de la República Argentina
+Asociación Nacional Republicana - Partido Colorado
+Comité Internacional de la Cruz Roja
+Movimiento de Integración y Liberación Homosexual - Chile
+Asociación Colombiana de Ingenieros de Sistemas
+Federación de Entidades Empresarias del Autotransporte de Cargas
+Cámara de Comercio de Santiago
+Federación Estudiantil Universitaria
+Instituto Nacional de Derechos Humanos
+Comisión Nacional de Telecomunicaciones
+Sindicato Nacional de Trabajadores de la Educación
+Fundación para el Desarrollo de la Educación
+Asociación de Empresas de Informática y Comunicaciones
+Sociedad de Escritores de Chile
+Cámara de Diputados de la Nación
+Federación Uruguaya de Cooperativas de Vivienda por Ayuda Mutua
+Asociación de Hoteles y Restaurantes del Uruguay
+Comité de Derechos Humanos de Chile
+Federación de Funcionarios de Salud Pública
+Comisión Nacional de Energía
+Sociedad Nacional de Agricultura
+Confederación General de Trabajadores del Perú
+Instituto Nacional de Salud
+Cámara Nacional Electoral
+Asociación de Funcionarios del Poder Judicial
+Federación Uruguaya de Básquetbol
+Federación Argentina de Municipios
+Federación de Estudiantes Secundarios del Uruguay
+Cámara de Representantes de Uruguay
+Federación de Asociaciones de Padres de Alumnos del Uruguay
+Comité Internacional de Rescate
+Consejo Nacional de la Cultura y las Artes
+Asociación de Futbolistas Argentinos Agremiados
+Instituto Nacional de Propiedad Industrial
+Comisión de Derechos Humanos de la Ciudad de México
+Federación Uruguaya de Empleados de Comercio y Servicios
+Asociación Internacional de Transporte Aéreo
+Federación Nacional de Cineclubs
+Sociedad de Fomento Rural de Salto
+Confederación de Trabajadores de la Economía Popular
+Instituto Nacional de Asuntos Indígenas
+Asociación Nacional de Productores de Leche
+Comisión de Derechos Humanos de Guatemala
+Federación Nacional de Cooperativas de Ahorro y Crédito
+Asociación Nacional de Funcionarios de Aduanas de Chile
+Consejo Nacional de Rectores
+Federación de Funcionarios de la Salud Pública
+Asociación Nacional de Funcionarios de Aduanas de Uruguay
+Cámara de Diputados de Chile
+Federación Argentina de Cooperativas Apícolas
+Federación Nacional de Cafeteros
+Asociación de Funcionarios del Ministerio de Salud Pública
+Confederación de Estudiantes de Chile
+Comisión Nacional de Valores
+Federación de Asociaciones de Productores de Cacao
+Asociación Nacional de la Prensa
+Instituto Nacional de Derechos Humanos
+Sociedad de Autores y Compositores de Chile
+Consejo Nacional de la Cultura y las Artes
+Asociación Nacional de Educadores de Panamá
+Confederación General del Trabajo de Chile
+Asociación de Funcionarios del Servicio de Impuestos Internos
+Cámara de Comercio de Lima
+Federación Nacional de Cafeteros
+Asociación de Futbolistas del Uruguay
+Confederación Nacional de Estudiantes Universitarios
+Federación de Funcionarios de la Salud Pública
+Asociación de Industriales del Uruguay
+Consejo Nacional de Rectores
+Federación Argentina de Cooperativas Apícolas
+Asociación de Funcionarios del Ministerio de Salud Pública
+Confederación General de Trabajadores del Perú
+Federación de Estudiantes de la Universidad de Chile
+Asociación de Futbolistas Argentinos Agremiados
+Consejo Nacional de la Cultura y las Artes
+Federación de Asociaciones de Productores de Cacao
+Asociación de Hoteles y Restaurantes del Uruguay
+Confederación Nacional de Estudiantes Universitarios
+Federación de Funcionarios de Salud Pública
+Amnistía Internacional
+Google
+Comisión Europea
+Asociación Nacional de Fútbol Profesional
+Unicef
+Coca-Cola
+World Wildlife Fund
+Microsoft
+Movimiento de los Trabajadores Rurales Sin Tierra
+Red Cross
+Organización de las Naciones Unidas
+World Health Organization
+Repsol
+Telefónica
+Greenpeace
+Banco Santander
+H&M
+Grupo Danone
+Adidas
+IBM
+Samsung
+UNESCO
+Iberdrola
+Renault
+PepsiCo
+L'Oréal
+Honda
+General Electric
+Shell
+Federación Internacional de Fútbol Asociación
+Toyota
+Volkswagen
+Oracle
+Cisco Systems
+Airbus
+Procter & Gamble
+Siemens
+Nestlé
+Philips
+Visa
+Johnson & Johnson
+Boeing
+Pfizer
+Coca-Cola Enterprises
+Dow Chemical
+Motorola
+Nokia
+Lufthansa
+Citibank
+HSBC
+American Express
+Accenture
+DHL
+FedEx
+United Parcel Service
+Pepsi
+Mastercard
+Hilton Worldwide
+Marriott International
+Hyatt Hotels Corporation
+McDonald's
+Burger King
+KFC
+Subway
+Starbucks
+PepsiCo
+Unilever
+Aerolíneas Argentinas
+Universidad de Buenos Aires
+Cámara de Diputados
+Colegio de Abogados
+Sindicato de Trabajadores del Estado
+Fundación Konex
+Asociación de Fútbol Argentino
+Instituto Nacional de Tecnología
+Crédito Argentino
+Banco Nación
+Universidad Nacional de La Plata
+Partido Justicialista
+Unión Industrial Argentina
+Federación Agraria Argentina
+Asociación de Dirigentes de Empresa
+Cámaras Argentinas de la Industria
+Sindicato de Obreros del Estado
+Federación de Colegios de Abogados
+Asociación de Médicos del Estado
+Instituto Nacional de Estadística
+Biblioteca Nacional
+Museo Nacional de Bellas Artes
+Teatro Colón
+Orquesta Filarmónica de Buenos Aires
+Fundación Teatro Nacional
+Instituto Nacional de Cine
+Asociación de Cronistas Deportivos
+Radio Nacional
+Televisión Pública
+Agencia de Noticias Télam
+Diario Clarín
+Diario La Nación
+Diario Página 12
+Revista Noticias
+Revista Veintitrés
+Editorial Planeta
+Editorial Sudamericana
+Universidad Católica Argentina
+Universidad de Belgrano
+Universidad de Morón
+Universidad de Salta
+Universidad del Salvador
+Colegio Militar de la Nación
+Escuela de Guerra Naval
+Escuela de Guerra Aérea
+Club Atlético River Plate
+Cruz Azul Fútbol Club
+Flamengo
+América de Cali
+Club Nacional de Football
+Deportivo Toluca
+Santos Laguna
+Estudiantes de La Plata
+Racing Club
+Atlético Mineiro
+Botafogo
+Olimpia
+Club Libertad
+Peñarol
+Defensor Sporting
+San Lorenzo de Almagro
+Boca Juniors
+Rosario Central
+Newell's Old Boys
+Universidad de Chile
+Colo-Colo
+Universidad Católica
+Alianza Lima
+Sporting Cristal
+Banfield
+Huracán
+Gimnasia y Esgrima La Plata
+Atlético Tucumán
+Caracas FC
+Deportivo La Guaira
+Trujillanos FC
+Zamora FC
+Liga Deportiva Alajuelense
+Deportivo Saprissa
+Club Sport Herediano
+Pachuca
+Monterrey
+Tigres UANL
+Chivas de Guadalajara
+Atlas
+Cerro Porteño
+Sol de América
+Guaraní
+Patriotas Boyacá
+Independiente Santa Fe
+Millonarios
+Junior de Barranquilla
+Atlético Nacional
+Deportivo Cali
+Once Caldas
+Real Garcilaso
+Universitario de Deportes
+César Vallejo
+Melgar
+Bahia
+Sport Recife
+Ceará
+Fortaleza
+Goiás
+Vitória
+Atlético Paranaense
+Coritiba
+Chapecoense
+Avaí
+Figueirense
+Criciúma
+Joinville
+Paysandu
+Remo
+Fortaleza Esporte Clube
+CSA
+CRB
+ABC
+América de Natal
+Botafogo-PB
+Santa Cruz
+Náutico
+Sampaio Corrêa
+Moto Club
+Imperatriz
+Maranhão
+River-PI
+Parnahyba
+4 de Julio
+São Paulo
+Corinthians
+Palmeiras
+Santos
+Grêmio
+Internacional
+Cruzeiro
+Mineros de Guayana
+Aragua FC
+Monagas SC
+Estudiantes de Mérida
+Metropolitanos FC
+Puerto Cabello
+Deportivo Lara
+Deportivo Táchira
+Carabobo FC
+Atlético Venezuela
+Estudiantes de Caracas
+Zulia FC
+Llaneros de Guanare
+Portuguesa FC
+Trujillanos
+Deportivo Anzoátegui
+Deportivo JBL del Zulia
+Petare FC
+Lara FC
+Deportivo Petare
+Real Esppor
+Minas Gerais
+Deportivo Italia
+Rayo Vallecano
+Real Sociedad
+Athletic Club
+Levante UD
+Getafe CF
+Villarreal CF
+Valencia CF
+Espanyol
+Real Betis
+Cádiz CF
+Osasuna
+Granada CF
+Alavés
+Elche CF
+Huesca
+Leganés
+Las Palmas
+Tenerife
+Málaga CF
+Zaragoza
+Mallorca
+Albacete
+Lugo
+Mirandés
+Ponferradina
+Numancia
+Girona
+Extremadura UD
+Alcorcón
+Reus
+Córdoba CF
+Almería
+Instituto Nacional de Estadísticas y Censos
+Swiss Medical
+ACA
+Union Cívica Radical
+PRO
+Unión por la Patria
+Hacemos Coalición Federal
+ANSES
+AstraZeneca
+The Telegraph
+La Nación
+Clarín
+Sindicato de Camioneros
+Cruz Roja
+Médicos Sin Fronteras
+Amnistía Internacional
+Fundación Favaloro
+Mercado Libre
+Telmex
+Petrobras
+Odebrecht
+Confederación General del Trabajo
+Central de Trabajadores Argentinos
+Movimiento al Socialismo
+Tribunal Superior de Justicia
+Diario Popular
+Casa Rosada
+Senado de la Nación
+Cámara de Diputados
+Banco de Desarrollo de América Latina
+Universidad Nacional de Córdoba
+Universidad de São Paulo
+Carrefour
+Sindicato Único de Trabajadores de la Educación
+Fundación Telefónica
+Televisa
+TV Globo
+Diario Gestión
+Cencosud
+Arcor
+Pemex
+Bimbo
+Grupo Nación
+Interbank
+Grupo Clarín
+La Voz del Interior
+El Comercio
+Grupo Reforma
+Banco Santander
+El País
+La Tercera
+Banco de la Nación
+TV Pública
+Aluar
+Techint
+Codelco
+Vale
+Sinopec Argentina
+YPF
+BBVA
+HSBC
+Falabella
+Copa Airlines
+Aeroméxico
+LATAM Airlines
+Avianca
+Diario La República
+Grupo Aval
+O Globo
+Folha de S.Paulo
+El Mercurio
+Banco Itaú
+Banco do Brasil
+Banco Bradesco
+Soriana
+Elektra
+ICA
+Grupo Bimbo
+Banorte
+Suzano Papel e Celulose
+Embraer
+JBS
+Marfrig
+Votorantim
+Ultrapar
+Grupo México
+Antofagasta Minerals
+SQM
+Falabella
+Paris
+Ripley
+La Polar
+Entel
+Movistar
+Claro
+Cencosud
+Diario Financiero
+Banco de Chile
+Banco Estado
+Viña Concha y Toro
+LAN
+Copa Airlines
+Azul Linhas Aéreas
+Gol Linhas Aéreas
+Infobae
+Perfil
+Página/12
+Revista Noticias
+El Cronista Comercial
+Diario de Cuyo
+Olé
+ESPN Deportes
+Fox Sports Latinoamérica
+Caracol Televisión
+RCN Televisión
+Teleantioquia
+Bancolombia
+Ecopetrol
+Grupo Aval
+Avianca
+Corficolombiana
+Nutresa
+Grupo Argos
+Cemex
+Claro Colombia
+Movistar Colombia
+ETB
+ISA
+Grupo SURA
+UNE
+Tigo
+Diario El Tiempo
+El Espectador
+Vanguardia Liberal
+El Heraldo
+El Universal
+La Opinión
+El Pilón
+La Libertad
+El Nuevo Día
+El Colombiano
+Semana
+Cromos
+El Pulso
+El Nuevo Siglo
+Revista Dinero
+Revista Portafolio
+Universidad de los Andes
+Universidad Nacional de Colombia
+Universidad Externado de Colombia
+Universidad del Rosario
+Universidad Javeriana
+Universidad de Antioquia
+Universidad del Valle
+Universidad de Caldas
+Universidad de Medellín
+Universidad EAFIT
+Universidad ICESI
+Universidad del Norte
+Universidad de Piura
+Universidad de San Andrés
+Universidad Católica
+Diego Maradona
+Lionel Messi
+Che Guevara
+Eva Perón
+Jorge Luis Borges
+Pablo Neruda
+Gabriel García Márquez
+Frida Kahlo
+Rigoberta Menchú
+Cristina Fernández de Kirchner
+Carlos Gardel
+Neymar da Silva
+Shakira
+Juan Pérez
+Martina Álvarez
+Roberto Gómez Bolaños (Chespirito)
+Gustavo Cerati
+Luis Suárez
+Diego Rivera
+José Martí
+Evita
+Ricardo Arjona
+Carlos Santana
+Sofía Vergara
+Juan Carlos
+Javier Pérez
+María García
+Alejandro González Iñárritu
+Salma Hayek
+Mario Vargas Llosa
+Octavio Paz
+Camila Cabello
+Fernando Botero
+Miguel de Cervantes
+Sebastián Piñera
+Michelle Bachelet
+Rafael Nadal
+Juan Manuel Santos
+Pedro Sánchez
+Carmen Miranda
+Fernando Pessoa
+Joaquín Guzmán Loera (El Chapo)
+Luiz Inácio Lula da Silva
+Nelson Mandela
+Checo Pérez
+José José
+Diego Boneta
+Ricardo Montaner
+Carlos Slim
+Ricky Martin
+Joaquín Sabina
+Javier Hernández (Chicharito)
+Paulina Rubio
+Andrés Manuel López Obrador (AMLO)
+Enrique Peña Nieto
+Thalía
+Vicente Fernández
+Daddy Yankee
+Ricardo Kaka
+Juanes
+Carlos Vives
+Pablo Escobar
+Diego Luna
+Juan Pablo Montoya
+Hugo Chávez
+Nicolás Maduro
+Gael García Bernal
+Pedro Infante
+Antonio Banderas
+Penélope Cruz
+Alejandro Fernández
+Gloria Estefan
+José Mourinho
+Luis Miguel
+Fernando Alonso
+José Aldo
+Francisco Franco
+Álvaro Uribe
+Juan Manuel Fangio
+Giovani Dos Santos
+Neymar
+Juan Gabriel
+Roberto Carlos
+Javier Bardem
+Luis Fonsi
+Shakira Mebarak
+Enrique Iglesias
+Manuel Neuer
+Tito Puente
+Juan Pablo II
+Pablo Escobar Gaviria
+Alberto Fujimori
+Paolo Guerrero
+Francisco Pizarro
+Diego Maradona Junior
+Carlos Tevez
+Mauricio Macri
+Ayrton Senna
+Daniel Alves
+Martina Stoessel
+Juan Martín Del Potro
+Pampita
+Marcos Maidana
+Guillermo Vilas
+Mauricio Pochettino
+Juan Román Riquelme
+Gonzalo Higuaín
+Juan Martín Hernández
+Cesar Milstein
+Rodrigo Bueno
+Carlos Menem
+Fernando De la Rúa
+Cristian Castro
+Tatiana Santo Domingo
+Juan Román Riquelme
+Roberto Fontanarrosa
+Sergio Agüero
+Marta Minujín
+Ariel Ortega
+Mario Kempes
+Luis Suarez
+Gabriel Batistuta
+Jorge Rafael Videla
+Horacio Quiroga
+Carlos Menem Jr.
+Claudio Caniggia
+Diego Torres
+Roberto Fontanarrosa
+Juan Martín Del Potro
+Gisela Dulko
+Federico Luppi
+Charly García
+Luciana Aymar
+Esteban Cambiasso
+Felipe VI
+Fernando De la Rúa
+Alberto Olmedo
+Horacio Pagani
+Nestor Kirchner
+Juan Emilio Ameri
+Martina Stoessel
+Diego Forlán
+Paco de Lucía
+Agustín Pichot
+Carlos Tevez
+Pato Abbondanzieri
+Paula Chaves
+Sandro de América
+Facundo Manes
+Papa Francisco
+Juan Carlos Calabró
+Facundo Campazzo
+Mirtha Legrand
+Martin Palermo
+Susana Giménez
+Jose Luis Espert
+Carla Peterson
+Gianinna Maradona
+Luciano Pereyra
+Nacha Guevara
+Germán Paoloski
+Diego Peretti
+Iván de Pineda
+Germán Burgos
+Dolores Fonzi
+Gino Renni
+Barack Obama
+Fidel Castro
+Francisco Franco
+Hugo Chávez
+Pablo Escobar
+Evita Perón
+Marilyn Monroe
+Diego Maradona
+Juan Domingo Perón
+Cristina Fernández de Kirchner
+Che Guevara
+Lionel Messi
+Jorge Luis Borges
+Gabriel García Márquez
+Pablo Neruda
+Frida Kahlo
+Simón Bolívar
+José de San Martín
+Rigoberta Menchú
+Miguel Hidalgo
+José Martí
+Pancho Villa
+Emiliano Zapata
+Checo Pérez
+Dolores Huerta
+César Chávez
+Ricardo Montalbán
+Rita Moreno
+Cantinflas
+Pedro Infante
+José José
+Selena Quintanilla
+Vicente Fernández
+Pedro Almodóvar
+Javier Bardem
+Penélope Cruz
+Antonio Banderas
+Salma Hayek
+Pablo Picasso
+Diego Velázquez
+Fernando Botero
+Frida Kahlo
+Salvador Dalí
+Antoni Gaudí
+Diego Rivera
+David Alfaro Siqueiros
+José Clemente Orozco
+Gabriel García Márquez
+Pablo Neruda
+Jorge Luis Borges
+Octavio Paz
+Mario Vargas Llosa
+Isabel Allende
+Gabriela Mistral
+César Vallejo
+Rubén Darío
+Juan Rulfo
+Carlos Fuentes
+Roberto Bolaño
+Julio Cortázar
+Javier Marías
+Arturo Pérez-Reverte
+José Saramago
+Mário Vargas Llosa
+Fernando Pessoa
+José Martí
+Rubén Blades
+Juan Luis Guerra
+Celia Cruz
+Ricky Martin
+Carlos Vives
+Marc Anthony
+Gloria Estefan
+Shakira
+Jorge Drexler
+Silvio Rodríguez
+Violeta Parra
+Mercedes Sosa
+Joan Manuel Serrat
+Caetano Veloso
+Gilberto Gil
+Chico Buarque
+Maria Bethânia
+Elis Regina
+Roberto Carlos
+Tom Jobim
+Vinicius de Moraes
+Astrud Gilberto
+Bebel Gilberto
+Bad Bunny
+J Balvin
+Ozuna
+Maluma
+Anitta
+Natti Natasha
+Karol G
+Daddy Yankee
+Angelina Jolie
+Leonardo DiCaprio
+Emma Watson
+Brad Pitt
+Jennifer Lawrence
+Tom Hanks
+Meryl Streep
+Chris Hemsworth
+Scarlett Johansson
+Johnny Depp
+Natalie Portman
+Robert Downey Jr.
+Dwayne Johnson
+Charlize Theron
+Ryan Gosling
+Jennifer Aniston
+Will Smith
+Anne Hathaway
+George Clooney
+Nicole Kidman
+Jake Gyllenhaal
+Kate Winslet
+Matthew McConaughey
+Cate Blanchett
+Chris Evans
+Amy Adams
+Christian Bale
+Julia Roberts
+Mark Wahlberg
+Reese Witherspoon
+Hugh Jackman
+Angelica Rivera
+Eugenio Derbez
+Penélope Cruz
+Javier Bardem
+Sandra Bullock
+Tom Cruise
+Halle Berry
+Ben Affleck
+Joaquin Phoenix
+Sylvester Stallone
+Anne Curtis
+Alden Richards
+Liza Soberano
+Manny Pacquiao
+Kathryn Bernardo
+Vice Ganda
+Nora Aunor
+Daniel Padilla
+Dingdong Dantes
+Maricel Soriano
+Judy Ann Santos
+John Lloyd Cruz
+Piolo Pascual
+Kris Aquino
+Richard Gomez
+Sharon Cuneta
+Lionel Messi
+Cristiano Ronaldo
+Luis Suarez
+Diego Maradona
+Neymar Jr
+Lionel Scaloni
+Andrés Manuel López Obrador
+Luis Alberto Lacalle Pou
+Gabriel García Márquez
+Shakira
+Luis Fonsi
+Enrique Iglesias
+Pablo Picasso
+Frida Kahlo
+Diego Rivera
+Antonio Banderas
+Penélope Cruz
+Javier Bardem
+Pedro Almodóvar
+Alfredo Landa
+Mariano Rajoy
+Pedro Sánchez
+Pablo Casado
+Albert Rivera
+José Mourinho
+Pep Guardiola
+Jürgen Klopp
+Diego Simeone
+Carla Morrison
+Juanes
+Ricardo Arjona
+Ricky Martin
+Juan Gabriel
+Pedro Infante
+Vicente Fernández
+Rocío Dúrcal
+Ana Gabriel
+Julio Iglesias
+Joan Manuel Serrat
+Alejandro Sanz
+Pablo Neruda
+Mario Vargas Llosa
+Isabel Allende
+Gabriel Boric
+Sebastián Piñera
+Michelle Bachelet
+Alberto Fernández
+Mauricio Macri
+Nicolás Maduro
+Hugo Chávez
+Fidel Castro
+Che Guevara
+Rafael Correa
+Evo Morales
+Luis Arce
+Jair Bolsonaro
+Luiz Inácio Lula da Silva
+Dilma Rousseff
+Fernando Henrique Cardoso
+Pablo Escobar
+Gustavo Petro
+Álvaro Uribe
+Rafael Nadal
+Roger Federer
+Serena Williams
+Novak Djokovic
+Simone Biles
+Nadia Comaneci
+Usain Bolt
+Michael Phelps
+Kobe Bryant
+LeBron James
+Michael Jordan
+Tom Brady
+Cristiano Ronaldo
+Lionel Messi
+Roger Federer
+Serena Williams
+Simone Biles
+Rafael Nadal
+Novak Djokovic
+Usain Bolt
+Michael Phelps
+Kobe Bryant
+LeBron James
+Michael Jordan
+Tom Brady
+Peyton Manning
+Stephen Curry
+Kevin Durant
+James Harden
+Giannis Antetokounmpo
+Kylian Mbappé
+Neymar Jr
+Pedro Alvarez
+Martina Sánchez
+José Hernández
+Xavi Alonso
+Javier Milei
+Gustavo Petro
+Juan José de San Martín
+Matthew Martin
+Sofía Castro
+Carlos Slim
+Eva Perón
+Diego Maradona
+Lionel Messi
+Gabriel García Márquez
+Frida Kahlo
+Pablo Neruda
+Julio Cortázar
+Cristina Fernández de Kirchner
+Enrique Peña Nieto
+Felipe Calderón
+Andrés Manuel López Obrador
+Sebastián Piñera
+Michelle Bachelet
+Álvaro Uribe
+Juan Manuel Santos
+Dilma Rousseff
+Lula da Silva
+Jair Bolsonaro
+Fernando Henrique Cardoso
+Mauricio Macri
+Hugo Chávez
+Nicolás Maduro
+Evo Morales
+Carlos Mesa
+Jeanine Áñez
+Luis Arce
+Alejandro Toledo
+Ollanta Humala
+Pedro Pablo Kuczynski
+Martín Vizcarra
+Francisco Sagasti
+Pedro Castillo
+Alan García
+Keiko Fujimori
+Rafael Correa
+Lenín Moreno
+Guillermo Lasso
+Juan Orlando Hernández
+Xiomara Castro
+Porfirio Lobo Sosa
+Manuel Zelaya
+Oscar Arias
+Laura Chinchilla
+Luis Guillermo Solís
+Carlos Alvarado Quesada
+Daniel Ortega
+Arnoldo Alemán
+Enrique Bolaños
+José Daniel Ortega
+Violeta Chamorro
+Ricardo Martinelli
+Juan Carlos Varela
+Laurentino Cortizo
+Mireya Moscoso
+Martín Torrijos
+Nito Cortizo
+Alejandro Giammattei
+Jimmy Morales
+Álvaro Colom
+Otto Pérez Molina
+Roxana Baldetti
+Efraín Ríos Montt
+Vinicio Cerezo
+Álvaro Arzú
+Juan José Arévalo
+Jacobo Árbenz
+Manuel Estrada Cabrera
+Jorge Ubico
+Juan Luis Bosch
+Carlos Castillo Armas
+Kamala Harris
+Barack Obama
+Michelle Obama
+Joe Biden
+Jill Biden
+Donald Trump
+Melania Trump
+George W. Bush
+Laura Bush
+Bill Clinton
+Hillary Clinton
+Ronald Reagan
+Nancy Reagan
+Jimmy Carter
+Rosalynn Carter
+Gerald Ford
+Betty Ford
+Richard Nixon
+Pat Nixon
+Lyndon B. Johnson
+Lady Bird Johnson
+John F. Kennedy
+Jacqueline Kennedy
+Dwight D. Eisenhower
+Mamie Eisenhower
+Harry S. Truman
+Bess Truman
+Franklin D. Roosevelt
+Eleanor Roosevelt
+Herbert Hoover
+Lou Henry Hoover
+Calvin Coolidge
+Grace Coolidge
+Messi
+Maradona
+Ginóbili
+Fernández
+Kirchner
+Macri
+Bolívar
+Menem
+Sarmiento
+San Martín
+Perón
+Guevara
+Videla
+Illia
+Frondizi
+Yrigoyen
+Piazzolla
+Gardel
+Merlo
+Fangio
+Vilas
+Del Potro
+Nalbandian
+Sabatini
+Borges
+Cortázar
+Bioy Casares
+Ocampo
+Puig
+Sábato
+Sosa
+Goyeneche
+Troilo
+Pugliese
+Piazzolla
+Santaolalla
+Cerati
+Bosé
+Shakira
+Banderas
+Iglesias
+Suárez
+Piqué
+Cruz
+Bardem
+Mortensen
+Cuarón
+Iñárritu
+Del Toro
+Gael García
+Luna
+Diego Rivera
+Kahlo
+Orozco
+Siqueiros
+Chávez
+Maduro
+Allende
+Pinochet
+Bachelet
+Piñera
+Lagos
+Frei
+Huidobro
+Neruda
+Mistral
+Lemebel
+Bolaño
+Vargas Llosa
+García Márquez
+Botero
+Márquez
+Caldas
+Bolívar
+Sucre
+Santander
+Castro
+Gaitán
+Petro
+Uribe
+Duque
+Ortega
+Chamorro
+Morales
+Arce
+Mesa
+Colom
+Torrijos
+Noriega
+Martelly
+Aristide
+Preval
+Balaguer
+Trujillo
+Fujimori
+Humala
+Toledo
+Kuczynski
+Vizcarra
+Castillo
+Correa
+Moreno
+Lasso
+Bucaram
+Roldós
+Velasco
+Alvarado
+Arias
+Figueres
+Solís
+Chinchilla
+Quesada
+Benítez
+Cabañas
+Romero
+Duarte
+Stroessner
+Lugo
+Franco
+Cartes
+Abdo
+María
+Carmen
+Ana
+Laura
+Paula
+Marta
+Lucía
+Sofía
+Valeria
+Elena
+Patricia
+Isabel
+Sandra
+Andrea
+Cristina
+Julia
+Sara
+Virginia
+Natalia
+Daniela
+Carolina
+Claudia
+Alicia
+Teresa
+Rosa
+Ángela
+Beatriz
+Silvia
+Nuria
+Lorena
+Alba
+Sonia
+Miriam
+Irene
+Susana
+Esther
+Martina
+Gabriela
+Rocío
+Olivia
+Inés
+Raquel
+Nerea
+Mónica
+Belén
+Noelia
+Marina
+Elsa
+Lidia
+Mariana
+Alejandra
+Constanza
+Pilar
+Lola
+Aitana
+Carlota
+Consuelo
+Dolores
+Fabiola
+Graciela
+Jimena
+Joaquina
+Leticia
+Lucrecia
+Magdalena
+Margarita
+Ramona
+Renata
+Salomé
+Tania
+Ursula
+Vania
+Yolanda
+Zoe
+Ada
+Bianca
+Celeste
+Delia
+Elisa
+Felicia
+Gloria
+Hilda
+Ida
+Juana
+Lea
+Mafalda
+Nadia
+Odetta
+Priscila
+Quinta
+Rita
+Sabina
+Tatiana
+Úrsula
+Vida
+Wilma
+Ximena
+Yvette
+José
+Antonio
+Juan
+Luis
+Manuel
+Pedro
+Jesús
+Jorge
+Carlos
+Miguel
+Francisco
+Javier
+Eduardo
+Víctor
+Mario
+Roberto
+Ricardo
+Fernando
+Emilio
+Raúl
+Sergio
+Marcos
+Álvaro
+Adrián
+Alberto
+Ángel
+Martín
+David
+Daniel
+Guillermo
+Ramón
